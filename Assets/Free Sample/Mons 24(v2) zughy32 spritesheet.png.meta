@@ -1,0 +1,1825 @@
+fileFormatVersion: 2
+guid: bb25fef646dd7bb45bbd07dd264a4df7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64922916487e082468f2dc5cf57d6338
+      internalID: -939022485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31d38f656032a74ea14509f8a20a060
+      internalID: -1478610455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 267
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c796488fba6c0644088593d88642305c
+      internalID: 2027095703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457bf6752e6a7e140aca7c86de7e4243
+      internalID: 565480603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 265
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d22668c2842ce4e965ca9ae0ac6cb2
+      internalID: 612437598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 266
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f4bb6c6fb5bb4ca6961651a7bca4f
+      internalID: 1162540217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 266
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87a9f669edbc0439349658af93d7dc
+      internalID: -873864020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 266
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f186567aadb3ca748967e00b6314a227
+      internalID: 1643433215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded985ee1c512de4fb6a51de51ad4777
+      internalID: -1822596162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 243
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a01becae835e24a9a809acc6c07bff
+      internalID: 624295592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 242
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b81c579b2468c7458042422b1b8b8fc
+      internalID: 1595619716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 242
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0775adcbd95df429726134e5f8da72
+      internalID: 852923826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351fa77cbba33b541bb9d391af96e241
+      internalID: 1901406771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 242
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe09dbc6a7892d44a0d354d553da62d
+      internalID: 1233950119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 242
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3070c895d3600884a8e2a8ca2655b313
+      internalID: -537226214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 242
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed269dafbbce86b48865619ddd11adc3
+      internalID: 217140672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 218
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adcf36ae20208b41a91da42e474df54
+      internalID: -1657944401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 218
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4042df7c298eae4d94af64fbb378a59
+      internalID: 777212247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 218
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8533d57cc0d4b80429b8731735a2c020
+      internalID: -1772962131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 218
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc33807b800b324f8dbf0eb5307e7b5
+      internalID: -323360057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256eeb303d2fdbe429f4b4feb4c6007f
+      internalID: 399704448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 194
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c909197c26fb4a8a03ee71ec9c20e
+      internalID: 2094249085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea71d11c9191244480081d044841955
+      internalID: 1033926841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 194
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa220cdcf2ebadd46bbe7b29e58cee2a
+      internalID: 1151391309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a2c913907241d44a3c85d091246e89
+      internalID: -485838895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b16a9c270748469bdebf9da3b607d
+      internalID: 331824617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9899e6037323f43b729025d2117a03
+      internalID: -1073096468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 194
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5e917bbf6f794f90457f2f9332dd6
+      internalID: -1117176916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d509a307c49c04983c9c8d38049337
+      internalID: -674146300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 171
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ff0520687775043b2d48a689f4db85
+      internalID: 822872968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 170
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f598ae812ca0943a87cab5624bf537
+      internalID: 1832087678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 170
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f7f4d1b0c54c488bcb651f289ac5e
+      internalID: 67774853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 170
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be271ceb0ae4b52409d666b50f6cd831
+      internalID: -5553913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 170
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d35ec7858a8624488f888143ea29b7d
+      internalID: -1935353886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 170
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e787dfb056b6934080468cc8f6c1ffe
+      internalID: -273485379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 146
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aff37111a676446b0bf828e8214572
+      internalID: 1357998058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 146
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91843837e4ce974fad3cf6eb374b54c
+      internalID: 792496701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 146
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c27219d4be224abd320e9d18c09cd
+      internalID: 1600135582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671d71ed5cf412449e9e5541a56c93c
+      internalID: -2076928277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 122
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f9f38ffd824d4eb0fc6727109bbb5
+      internalID: -2123203121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254a8b833f1ce2a4fbfde53f925a01ec
+      internalID: -1774002213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 122
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e7a5f34db52940a6e147dae7f34ef
+      internalID: -1895745647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 121
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dca994745cd024c8c4381685372801
+      internalID: -81683466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916904d117b2548408cab7ca7f0b42c7
+      internalID: 1239067811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 122
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891363fae348adc4382f3bcbbe6329aa
+      internalID: 1413245570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 122
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc7ff4fb506ec94ba6eed1412e3a3a0
+      internalID: 661556897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 99
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fd34d314954a3439d515b97a13b3e5
+      internalID: 2064267897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 99
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e120b826f05d04bbdfae04a0bcfc79
+      internalID: -1417209827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 98
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f600ac8d13ac14bbfaa4e7a3c49608
+      internalID: -1756666768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42e0247004051548841262c614461e0
+      internalID: 2039936629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9314a8725a3d94241920982dcf0b4945
+      internalID: -827462047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 98
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c836a2ca2971ccd43a8294a5c194e6a6
+      internalID: 1282745101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 98
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c07160b702b9047ad72d4cddc57237
+      internalID: 535233362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 74
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3cb99b420ab024dbffbf9767507258
+      internalID: -487223069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5433d565fffc2014aa08260a2db1a6db
+      internalID: -679271410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 74
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cf7a4c154acfa4db9dd59a1c062c10
+      internalID: 921128241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77045e9e2da096c4f82d506c62b80e82
+      internalID: 1445703460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e761d038e1a3e348b9fb4cecf2d0317
+      internalID: 1514930372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 51
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721dea8df52a95d468f5683f85f7ea87
+      internalID: 462187378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdaefe74a1084b41a541d905646eff4
+      internalID: 1051734363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4862f545502a66a489cba3a341d1005d
+      internalID: -1992098763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 50
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2186b743895ed741a190cce6d83bae6
+      internalID: 2133350332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e6ce49b8131214594997d5a79e11e2
+      internalID: 165951201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 50
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caffe7bd83a39d14cac2a73ee5ae7337
+      internalID: 1438785126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e778a5dec7acf478f81fede0f8eccb
+      internalID: 491324834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3eb0a1b12005e4e913bd5d6ab608a3
+      internalID: 1188073926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a112616a918db499d3e60610dfb35a
+      internalID: 1063203933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 26
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf161d602806a54b92dad6e79777734
+      internalID: 111447796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c824c9712ec58741bf73e6da7b23290
+      internalID: -487129062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 26
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c97e5916029283489a242a20f49be57
+      internalID: -933792357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 26
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ac44d4329d1b64a8c980b3f06c59ff
+      internalID: -624890940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 26
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5db548a4673114c865a0c82a19dd66
+      internalID: -1364219911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c05c266f03d578458c7060f01a3b0be
+      internalID: 987740611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781603c5311c10e4ab167a37dcc6e1e1
+      internalID: -1372639705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c928c5b4354e44be473fc42a8e880
+      internalID: 754825230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mons 24(v2) zughy32 spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e82bb37e36f7a541beabe4bd579897d
+      internalID: -2019755856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mons 24(v2) zughy32 spritesheet_0: -939022485
+      Mons 24(v2) zughy32 spritesheet_1: -1478610455
+      Mons 24(v2) zughy32 spritesheet_10: 1595619716
+      Mons 24(v2) zughy32 spritesheet_11: 852923826
+      Mons 24(v2) zughy32 spritesheet_12: 1901406771
+      Mons 24(v2) zughy32 spritesheet_13: 1233950119
+      Mons 24(v2) zughy32 spritesheet_14: -537226214
+      Mons 24(v2) zughy32 spritesheet_15: 217140672
+      Mons 24(v2) zughy32 spritesheet_16: -1657944401
+      Mons 24(v2) zughy32 spritesheet_17: 777212247
+      Mons 24(v2) zughy32 spritesheet_18: -1772962131
+      Mons 24(v2) zughy32 spritesheet_19: -323360057
+      Mons 24(v2) zughy32 spritesheet_2: 2027095703
+      Mons 24(v2) zughy32 spritesheet_20: 399704448
+      Mons 24(v2) zughy32 spritesheet_21: 2094249085
+      Mons 24(v2) zughy32 spritesheet_22: 1033926841
+      Mons 24(v2) zughy32 spritesheet_23: 1151391309
+      Mons 24(v2) zughy32 spritesheet_24: -485838895
+      Mons 24(v2) zughy32 spritesheet_25: 331824617
+      Mons 24(v2) zughy32 spritesheet_26: -1073096468
+      Mons 24(v2) zughy32 spritesheet_27: -1117176916
+      Mons 24(v2) zughy32 spritesheet_28: -674146300
+      Mons 24(v2) zughy32 spritesheet_29: 822872968
+      Mons 24(v2) zughy32 spritesheet_3: 565480603
+      Mons 24(v2) zughy32 spritesheet_30: 1832087678
+      Mons 24(v2) zughy32 spritesheet_31: 67774853
+      Mons 24(v2) zughy32 spritesheet_32: -5553913
+      Mons 24(v2) zughy32 spritesheet_33: -1935353886
+      Mons 24(v2) zughy32 spritesheet_34: -273485379
+      Mons 24(v2) zughy32 spritesheet_35: 1357998058
+      Mons 24(v2) zughy32 spritesheet_36: 792496701
+      Mons 24(v2) zughy32 spritesheet_37: 1600135582
+      Mons 24(v2) zughy32 spritesheet_38: -2076928277
+      Mons 24(v2) zughy32 spritesheet_39: -2123203121
+      Mons 24(v2) zughy32 spritesheet_4: 612437598
+      Mons 24(v2) zughy32 spritesheet_40: -1774002213
+      Mons 24(v2) zughy32 spritesheet_41: -1895745647
+      Mons 24(v2) zughy32 spritesheet_42: -81683466
+      Mons 24(v2) zughy32 spritesheet_43: 1239067811
+      Mons 24(v2) zughy32 spritesheet_44: 1413245570
+      Mons 24(v2) zughy32 spritesheet_45: 661556897
+      Mons 24(v2) zughy32 spritesheet_46: 2064267897
+      Mons 24(v2) zughy32 spritesheet_47: -1417209827
+      Mons 24(v2) zughy32 spritesheet_48: -1756666768
+      Mons 24(v2) zughy32 spritesheet_49: 2039936629
+      Mons 24(v2) zughy32 spritesheet_5: 1162540217
+      Mons 24(v2) zughy32 spritesheet_50: -827462047
+      Mons 24(v2) zughy32 spritesheet_51: 1282745101
+      Mons 24(v2) zughy32 spritesheet_52: 535233362
+      Mons 24(v2) zughy32 spritesheet_53: -487223069
+      Mons 24(v2) zughy32 spritesheet_54: -679271410
+      Mons 24(v2) zughy32 spritesheet_55: 921128241
+      Mons 24(v2) zughy32 spritesheet_56: 1445703460
+      Mons 24(v2) zughy32 spritesheet_57: 1514930372
+      Mons 24(v2) zughy32 spritesheet_58: 462187378
+      Mons 24(v2) zughy32 spritesheet_59: 1051734363
+      Mons 24(v2) zughy32 spritesheet_6: -873864020
+      Mons 24(v2) zughy32 spritesheet_60: -1992098763
+      Mons 24(v2) zughy32 spritesheet_61: 2133350332
+      Mons 24(v2) zughy32 spritesheet_62: 165951201
+      Mons 24(v2) zughy32 spritesheet_63: 1438785126
+      Mons 24(v2) zughy32 spritesheet_64: 491324834
+      Mons 24(v2) zughy32 spritesheet_65: 1188073926
+      Mons 24(v2) zughy32 spritesheet_66: 1063203933
+      Mons 24(v2) zughy32 spritesheet_67: 111447796
+      Mons 24(v2) zughy32 spritesheet_68: -487129062
+      Mons 24(v2) zughy32 spritesheet_69: -933792357
+      Mons 24(v2) zughy32 spritesheet_7: 1643433215
+      Mons 24(v2) zughy32 spritesheet_70: -624890940
+      Mons 24(v2) zughy32 spritesheet_71: -1364219911
+      Mons 24(v2) zughy32 spritesheet_72: 987740611
+      Mons 24(v2) zughy32 spritesheet_73: -1372639705
+      Mons 24(v2) zughy32 spritesheet_74: 754825230
+      Mons 24(v2) zughy32 spritesheet_75: -2019755856
+      Mons 24(v2) zughy32 spritesheet_8: -1822596162
+      Mons 24(v2) zughy32 spritesheet_9: 624295592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
